@@ -12,9 +12,10 @@ Before running this application, you need to sign up on the OpenWeatherMap websi
 ## Usage
 To run the application, execute the following command in your terminal:
 
+<pre>
 bash
 go run main.go
-
+</pre>
 
 The application will fetch and display the weather forecast for the specified city (in this case, Moscow) for the next 5 days.
 
